@@ -20,9 +20,8 @@ export const AboutSection = () => {
                         <h3 className="text-2xl font-semibold"> Driven Developer & Sports Enthusiast </h3>
 
                         <p className="text-muted-foreground">
-                            With over 5 years of experience in web development, I specialize
-                            in creating responsive, accessible, and performant web
-                            applications using modern technologies.
+                            I am currently a rising junior at University of Alberta,
+                            pursuing a BSc. in Computer Science Degree.
                         </p>
 
                         <p className="text-muted-foreground">
